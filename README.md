@@ -1,6 +1,4 @@
-# latihanflutter
-
-A new Flutter project.
+# furniture store
 
 ## Getting Started
 
